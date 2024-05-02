@@ -1,2 +1,2 @@
 # badcodememes
-bad code memes. feel free to add your own
+bad code memes for prs. feel free to add your own

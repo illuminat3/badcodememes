@@ -6,3 +6,5 @@ bad code memes for prs. feel free to add your own
 ![NoTests](https://raw.githubusercontent.com/illuminat3/badcodememes/main/NoTests.jpg)
 
 ![NoMoreUnitTests](https://raw.githubusercontent.com/illuminat3/badcodememes/main/NoWriteMoreUnitTests.png)
+
+![Yippee](https://raw.githubusercontent.com/illuminat3/badcodememes/main/yippee.gif)

@@ -12,3 +12,5 @@ bad code memes for prs. feel free to add your own
 ![Merge Conflict](https://raw.githubusercontent.com/illuminat3/badcodememes/main/mergeconflictstare.gif)
 
 ![Testing Time](https://raw.githubusercontent.com/illuminat3/badcodememes/main/chipichapatesting.gif)
+
+![What Does The Log Say](https://github.com/illuminat3/badcodememes/blob/ac2c4919551f8a188432f076c43f362ce41c0ab0/what-does-the-log-say.gif)
